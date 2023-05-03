@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "225e12625d8b7b6ad6ebb832e1ec9ab4a33fdf45c6daad29b3a8857a5bf9ec09"
+hash = "b91b43f5107ccaa99e43b36af1f7944dffa3ba9159f1a59f996a9e726653306c"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
-hash = "fca7337ff2c7276c3b8f8324ba35e656c412e8df69b83c99271098f1a02a42b2"
+hash = "ed4c68e241d1f7401ed3035fcd02d185c54c7381c6efc7aa5306ddd93d89aa03"
 metafile = true
 
 [[files]]
